@@ -33,6 +33,7 @@ else:
                                 QByteArray)
     from PySide2.QtSql import QSqlDatabase, QSqlQuery
     from PySide2.QtGui import QIcon, QPixmap, QTextCursor, QBrush, QColor
+    from PySide2 import QtQml
 
 from secondary import *
 from gui_main import Ui_Base
